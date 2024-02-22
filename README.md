@@ -1,1 +1,0 @@
-estudo sobre dashboard
